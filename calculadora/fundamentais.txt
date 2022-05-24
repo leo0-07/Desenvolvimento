@@ -1,0 +1,23 @@
+Descrição dos arquivos
+os arquivos de exemplo desse diretório mostram a sintaxe 
+para as operações fundamentais.
+Você pode executá-los com a 
+seguinte sintaxe
+cat "arquivo" | bc
+onde a instrução cta buferiza o texto do
+arquivo, o operador | irá redirecionar a sáida
+para o comando seguinte, no caso "bc"
+
+cálculos básicos:
+operador e operação  adição
+operador e operação subtração
+operador e operação multiplicação
+operador e operação divisão
+
+conversões de base:
+sintaxe base-binária-para-decimal
+sintaxe base-decimal-para-binária
+
+operador e operação potencição
+
+cálculo da carga elétrica elementar:  quant-carga-natural

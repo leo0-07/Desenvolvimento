@@ -1,0 +1,28 @@
+4.1 A Base Matemática.
+A base matemática define o comprimento do conjunto 
+representado na notação matemática ou numérica.
+Ela é responsável pela interpretação dos números e
+sua associação a um determinado valor ou grandeza.
+Podemos ter por princípio a compreensão da base 2.
+Esta por sua vez tem a função de se comunicar e 
+controlar de forma direta o hardware utilizado
+na computação.
+em sua forma ela pode ser representada com 
+um valor linear de dois elementos @=(0,1).
+tendo seu conjunto de comprimento dois pois 
+este é o número de dígitos usados em sua notação.
+Cada dígito nesta base recebe o nome de Bit.
+Ou binary digit 0,1.
+com um conjunto de quatro elementos nessa base 
+formamos um conjunto conhecido por Nibble.
+Nibble = 0000.
+Nibble = 1111.
+com dois conjuntos Nibble temos um conjunto
+conhecido como Byte(ou seja oito bits.
+Byte 0000x1111, 01010101.
+Base 10 ou decimal, esta por sua vez possui 
+seu valor linear associado a um conjunto 
+de dez dígitos. 
+@(10)=(0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
+Ela já é usada na maior ria das aplicações
+humanas da matemática.

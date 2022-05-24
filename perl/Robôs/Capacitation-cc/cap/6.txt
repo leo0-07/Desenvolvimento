@@ -1,0 +1,13 @@
+4.2 matemática binária.
+A álgebra booleana é uma álgebra que traduz 
+os sinais em expressões matemáticas. Para isso, 
+é preciso definir cada sinal elementar por variáveis 
+lógicas e seu processamento por funções lógicas. 
+Certos métodos (tabela da verdade) permitem definir 
+operações que queremos realizar e, traduzir o resultado 
+em uma expressão algébrica. Graças a regras chamadas 
+"leis de composição", estas expressões podem ser simplificadas. 
+Isso permitirá de representar, graças a símbolos, um circuito
+ lógico, ou seja, um circuito que esquematiza o arranjo dos 
+componentes básicos (nível lógico), sem considerar a realização 
+através dos transistores (nível físico). 

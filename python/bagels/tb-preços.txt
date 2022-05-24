@@ -1,0 +1,32 @@
+informações:
+id :  1
+prato :  filé com fritas
+preço :  17,11
+informações:
+id :  2
+prato :  salada
+preço :  11,17
+informações:
+id :  3
+prato :  batata frita
+preço :  12,00
+informações:
+id :  4
+prato :  provolone frito
+preço :  10,00
+informações:
+id :  5
+prato :  salaminho
+preço :  15,00
+informações:
+id :  6
+prato :  mandioca frita
+preço :  10,00
+informações:
+id :  7
+prato :  iscas de peixe
+preço :  18,00
+informações:
+id :  8
+prato :  filé no palito
+preço :  20,00

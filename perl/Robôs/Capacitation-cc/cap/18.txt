@@ -1,0 +1,7 @@
+18 escalar e linear versus série e paralelo!
+Ambas podem ser feitas de dois modos tanto no hardware quanto no software.
+Série, escalar, $.
+Paralelo, linear, @.
+Por padrão os operadores de entrada e saída serão.
+< entrada.
+> saída.

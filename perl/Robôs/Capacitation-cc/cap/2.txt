@@ -1,0 +1,29 @@
+2. Informação e codificação.
+É chamada de codificação a elaboração de uma mensagem realizada por meio de 
+regras ou normas de um código ou linguagem determinada. Conhecemos a 
+codificação como qualquer operação que envolva a atribuição de um valor de 
+símbolos ou caracteres de uma determinada mensagem verbal ou não verbal com 
+o objetivo de transmitir a outras pessoas ou entidades que compartilham o 
+código.
+
+A codificação é algo tão simples como transformar imagens visuais ou 
+entidades conceituais em palavras, orações, textos, e a transmitimos com 
+aqueles que nos rodeiam. Também, codificação são operações mais complexas 
+que envolvem códigos compartilhados com menor número de interlocutores. 
+Ela pode ser uma mensagem criptografada ou uma informação emitida pelo código 
+Morse. Além disso, podemos dizer que as mensagens são codificadas quando 
+terminam um valor codificado ou ilegível ao público.
+Em computação, a codificação é também a operação que possui uma central 
+para enviar dados de um lugar para outro, processá-los e obter resultados 
+a partir deles. Todas as operações informatizadas são codificadas em código 
+binário ou combinações complexas de um e zero.
+Ao mesmo tempo, determinadas operações com computadores requerem um segundo 
+nível de codificação. São aquelas que exigem normas de segurança e de 
+confidencialidade, portanto, envolve a criação de mensagens criptografadas 
+que podem ser lidas apenas por certos tipos de computadores ou pelo usuário 
+que o criou, como quando ocorre com as senhas e dados pessoais em transações 
+on-line.
+Este tipo de codificação tem um alto valor de confiabilidade e é utilizado 
+em todos os tipos de tarefas e ambientes de computação. No entanto, é algo 
+tão simples como criar uma conta em uma rede social e bem complexa como 
+executar operações bancárias e operações financeiras na Internet.

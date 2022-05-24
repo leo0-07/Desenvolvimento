@@ -1,0 +1,50 @@
+Este curso tem a carga horária de 60 horas
+	I- Introdução a computação e informática.
+Este curso é composto por um total de 19 tópicos
+Conteúdo:
+1. Informática versus Computação.
+2. Informação e codificação.
+3. Codificação e decodificação.
+4. Matemática.
+4.1 Base matemática.
+4.2 Matemática binária.
+4.3 Leis de composição.
+4.4 operadores.
+5. Sistemas operacionais.
+5.1 a partir de código fonte
+5.2 a partir de binários("bytecode")
+6 Destop, Laptop/Computadores de uso pessoal.
+7 Workstation/Estação de trabalho.
+8 Server/Servidores.
+9.programas.
+9.1 Aplicativos.
+9.2 Drivers.
+9.3 Utilitários.
+10. APIs Interfaces de programação.
+11. Baixo nível.
+11.1 otimização de compilação
+11.2 linkagem, linkedição
+11.3 alta versus baixa latência
+12. Alto nível.
+13. Engines/Motores.
+14. Interfaces para o operador.
+14.1 Comandos/texto.
+14.2 Gráfica/gui.
+15. Mapa de caracteres.
+16. Sistema de arquivos.
+17. FIFO/LIFO.
+18. INPUT/OUTPUT.
+18.1 Série e paralelo versus escalar e linear.
+19 Eletrônica.
+19.1 resistência equivalente.
+19.1.1 resistência série.
+19.1.2 resistência paralelo.
+19.2 potência.
+P=V . I(potência = tensão vezes corrente).
+19.1.1 Resistência equivalente em série Req=R1+R2
+19.1.2 Resistência equivalente em paralelo Req=(R1*R2)/(R1+R2)
+19.3 tensão.
+V=R . I(tensão = resistência vezes corrente).
+19.4 corrente.
+19.4.1 contínua.
+19.4.2 alternada.

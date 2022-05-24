@@ -1,0 +1,15 @@
+Mapear as principais posições por linha e coluna requer um hardware 
+de computador menos complexo; Portanto, no passado, usar software ou 
+firmware para traduzir os scancodes para caracteres de texto era mais 
+barato do que conectar o teclado por caracteres de texto. [1] Essa 
+diferença de custo não é tão profunda quanto costumava ser. No 
+entanto, muitos tipos de computadores ainda usam seus scancodes 
+tradicionais para manter a compatibilidade com versões anteriores .
+
+Alguns padrões de teclado incluem um scancode para cada tecla sendo 
+pressionada e um diferente para cada tecla sendo liberada. Além disso, 
+muitos padrões de teclado (por exemplo, padrões compatíveis com IBM PC ) 
+permitem que o próprio teclado gere chaves de repetição " typematic " 
+fazendo com que o próprio teclado gere o scancode pressionado 
+repetidamente enquanto a tecla é pressionada, com o lançamento 
+do scancode enviado uma vez quando a chave é liberada. 

@@ -1,0 +1,26 @@
+19 - Eletrônica.
+Diz respeito a leis da física em relação a eletricidade e ligação pelas 
+leis da composição de circuitos e componentes eletrônicos.
+a) Série (-, +, -, + , -, +).
+O negativo do componente anterior será o positivo do posterior.
+b) Paralelo(+,+,-, -).
+Todos os positivos ligados com os próprios positivos e os negativos 
+com os negativos.
+19 Eletrônica.
+19.1 resistência equivalente.
+V=R . I
+De onde V(tensão).
+R(Resistência).
+Req(resistência equivalente).
+Todo circuito eletrônico ou elétrico possuí sua resistência equivalente.
+I(Corrente).
+19.1 Req=R1+R2
+19.2 Req=(R1*R2)/(R1+R2)
+19.1 Cálculo resistência equivalente série.
+19.2 Cálculo resistência equivalente paralelo.
+19.3 Potência.
+19.3 P = V . I
+De onde P(potência).
+Com essas regras fundamentais da eletricidade como ferramentas 
+compõem-se as leis da composição que nos permitem ter quase tudo 
+da tecnologia moderna.

@@ -1,0 +1,18 @@
+consulta em banco de dados MySQL
+usando cliente mysql modo texto.
+<TABLE BORDER=1><TR><TH>pchave</TH><TH>descrição</TH><TH>conteúdo</TH></TR><TR><TD>MVC</TD><TD>Model, View, Controller
+Modelo de aplicações para web.</TD><TD>Baseado em etapas para construção de modelagem dos dados, controle de fluxo da aplicação.
+Esse modelo é usado para várias formas de aplicações desde as mais simples até aplicações complexas envolvendo consultas em banco de dados.
+
+O modelo é adotado para a arquitetura RESTFull.
+
+Várias linguagens dão suporte a esse formato de aplicação.
+
+Um de seus recursos mais intteressante é permitir a divisão da aplicação em frontend e backend.</TD></TR><TR><TD>LARAVEL</TD><TD>Framework para construção MVC baseado na linguagem PHP.</TD><TD>Muito conhecido e utilizado pea agilização e aumento da produtividade em ambientes de deseonvolvimento web.
+
+O Framework usa ferramentas próprias para acelerar e auxiliar as construções de aplicações.
+Uma de suas ferramentas é o conjunto de scripts que compõem o artisan.
+
+Essa ferramenta é invocada com a sintaxe: php artisan &quot;instrução&quot;.</TD></TR><TR><TD>PHP</TD><TD>Linguagem criada por Rasmus Lerdorf, composta por um conjunto de binários para CGI.</TD><TD>O php é uma linguagem muito usada nos dias atuais.Ele teve seu início sendo construído para uso em ambioentes cgi.Ele possui, vários módulos que podem ser acoplados dando novas funcionalidades a ele.interpretadores para seu uso estão disponíveis, na maior parte dos daemons para HTTP(S)</TD></TR><TR><TD>CPU</TD><TD>O termo se refere ao processador de dados central de um computador ou dispositivo microprocessado.
+</TD><TD>O termo CPU é um acrônimo de Central Processor Unit.Traduzindo para o português pode ssumir o sentido de unidade central de processamento.</TD></TR><TR><TD>URL</TD><TD>Este é o nome dado a um conjunto de valores para se localizar, consultar e interagir com informações na web, através de um navegador(browser)
+</TD><TD>Os navegadores possuem limites para a construção e a requisição de um endereço na rede.Barra de endereço suportadas e limites dos navegadores, ou ainda âncoras para navegação.——————————————Chrome 32779 &gt;64kAndroid 8192 &gt;64kFirefox &gt;64k &gt;64kSafari &gt;64k &gt;64kIE11 2047 5120Edge 16 2047 10240A url é composta por partes simples.o /esquema: http://A autoridade: www.domínio.tldid( ww.domínio.com)O recurso: ou o caminho para o recurso /index (/pageOs Parâmetros ?var1=!valor&quot;&amp;var2=&quot;valor&quot;</TD></TR><TR><TD>AT&amp;T</TD><TD></TD><TD></TD></TR></TABLE>

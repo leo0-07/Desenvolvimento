@@ -1,0 +1,3 @@
+#!/bin/bash
+mysql -h asl-sl.com.br -D asldb -u waiter -p11224477  < restart.sql
+echo "dados de pedidos reiniciados!";

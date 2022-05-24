@@ -1,0 +1,11 @@
+11 Baixo nível.
+O que é baixo nível.
+Na computação temos uma classificação entre os níveis de abstração.
+Ou seja o quanto próximo do hardware ou do software a tarefa é executada.
+quanto mais próxino do software ou ate mesmo do humanware é que irá
+definir se esta é uma tarefa de baixo ou alto nível.
+Por baixo nível compreende-se questões de hardware e de linguagens 
+e partes específicas do próprio sistema operacional.
+Posso citar como exemplo operações com álgebra booleana e programas
+de controle de hardware como drivers muitos escritos em linguagens como
+assembly, c, c++.

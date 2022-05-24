@@ -1,0 +1,7 @@
+15 - Mapa de caracteres.
+Por mapa de caracteres entende-se a tabela de comprimento definido 
+que compõe o mapeamento dos símbolos usados pelas interfaces para 
+representação ortográfica de um determinado idioma ou linguagem.
+Ela por sua vez está relacionada com o sistema de arquivos por se 
+aplicar diretamente ao armazenamento codificação e decodificação 
+das informações humanas em nosso sistema operacional e computacional.

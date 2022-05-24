@@ -1,0 +1,41 @@
+O que é Software:
+
+Software é uma sequência de instruções escritas para serem interpretadas por 
+um computador com o objetivo de executar tarefas específicas. Também pode 
+ser definido como os programas que comandam o funcionamento 
+de um computador.
+
+Em um computador, o software é classificado como a parte lógica cuja 
+função é fornecer instruções para o hardware. O hardware é toda a parte 
+física que constitui o computador, por exemplo, a CPU, a memória e os 
+dispositivos de entrada e saída. O software é constituído por todos os 
+programas que existem para um referido sistema, quer sejam produzidos 
+pelo próprio utente ou pelo fabricante do computador.
+O termo inglês "software" foi usado pela primeira vez em 1958 em 
+um artigo escrito pelo 
+cientista americano John Wilder Tukey. 
+Foi também ele o responsável por introduzir o termo "bit" para 
+designar "dígito binário".
+
+Os softwares podem ser classificados em três tipos:
+
+Software de Sistema: é o conjunto de informações processadas pelo 
+sistema interno de um computador que permite a interação entre usuário 
+e os periféricos do computador através de uma interface gráfica. 
+Engloba o sistema operativo e os controladores de dispositivos (memória, 
+impressora, teclado e outros).
+
+Software de Programação: é o conjunto de ferramentas que permitem 
+ao programador desenvolver sistemas informáticos, geralmente usando 
+linguagens de programação e um ambiente visual de desenvolvimento integrado.
+
+Software de Aplicação: são programas de computadores que permitem ao 
+usuário executar uma série de tarefas específicas em diversas áreas de 
+atividade como arquitetura, contabilidade, educação, medicina e outras 
+áreas comerciais. São ainda os videojogos, as base de dados, os sistemas 
+de automação industrial, etc.
+
+Existe também o conceito de software livre, que remete para um programa 
+que dá liberdade ao utilizador, permitindo que ele o estude, modifique 
+e compartilhe com outras pessoas. Para isso, é preciso que o utilizador 
+possa aceder o código-fonte, para mudá-lo conforme as suas necessidades.

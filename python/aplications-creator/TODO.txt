@@ -1,0 +1,9 @@
+tty id CLI GUI (v)
+funções onsulta cadastra (v)
+
+documentação
+documentação
+
+funcão main(menu) cad/display [registrar/show]
+cópia de estrutura main --> new app.
+

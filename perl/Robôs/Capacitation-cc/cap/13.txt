@@ -1,0 +1,17 @@
+13 - Engines/Motores.
+
+Motores.
+Esses por sua vez, compõem o sistema operacional e variam de nível 
+de acordo com o tipo de sistema e processamento que realizam.
+Os que se tornaram mais conhecidos são os de alto nível pois estão 
+diretamente em contato com qualquer tipo de operador de tecnologia e 
+até mesmo leigos que utilizam a informática em suas atividades ou ocupações.
+Todas as linguagens em geral utilizam motores para redução e elevação de 
+níveis de execução.
+Como a GLIBC, em ambientes tipo UNIX como o Linux, po exemplo e os BSD’s.
+Outra biblioteca famosa é a stdlibc, que como o nome sugere nesses 
+mesmos sistemas compõe o motor para a linguagem c no modelo ansi.
+Uma vez nos sistemas não tipo UNIX ou sequer gnu/fsf as empresas 
+desenvolvem esses motores sob alterações e direitos, bem como outras 
+funções e atividades o que é o caso da MFC. ( microsoft foundation 
+classes utilizada nos sistemas microsoft.).

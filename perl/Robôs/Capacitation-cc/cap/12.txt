@@ -1,0 +1,9 @@
+12 - Alto Nível.
+O alto nível:
+Ao contrario do baixo nível o alto nível é designado por sua 
+relação direta entre a informação propriamente dita, E o
+próprio humanware. ou seja material humano de sua realização.
+linguagens e aplicações desenvolvidas como em shell script, 
+perl, python, podem ser ditas de alto nível.
+Assim como cgi, php, html, css e muitas outras relacionadas
+a web em geral são linguagens de alto nível.

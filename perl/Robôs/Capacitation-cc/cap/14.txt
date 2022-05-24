@@ -1,0 +1,7 @@
+14 - Interfaces para o operador.
+Pode-se dizer que o sistema computacional composto por 
+nosso sistema operacional e todo o hardware que esse dispõe 
+nada mais é do que um grande conjunto de interfaces. 
+E que interface simplesmente são meios de ligação e interligação 
+entre hardware x hardware, software x hardware, software x hardware, 
+hardware x human-ware, software x software, software x human-ware.

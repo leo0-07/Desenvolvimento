@@ -1,0 +1,26 @@
+3. Codificação e decodificaçã.
+A codificação inicial que temos que lembrar sempre 
+É a dos dispositivos padrão de entrada e saída 
+de informação.
+Que no caso de um ambiente tipo UNIX serão:
+1. teclado, dispositivo de entrada.
+2. tela, dispositivo de saída.
+para isso teremos mapas de informações
+sobre caracteres.
+No caso do teclado aplicam-se:
+scancode "código de pulsos elétricos". 
+Associados aos caracteres que compõem
+o dispositivo.
+charmap, que é o mapa destes caracteres
+e seus símbolos associado a uma fonte
+para saída do texto.
+2. a tela.
+Esta por sua vez será mapeada de
+acordo com uma página de código.
+codepage.
+Outra forma e componente do sistema 
+operacional que deve possuir uma forma 
+de codificação configurada de forma 
+correta e harmoniosa é o sistema de arquivos.
+Uma vez isso feito tudo deve 
+funcionar bem.

@@ -1,0 +1,10 @@
+Drivers.
+Estes por sua vez são componentes do sistema operacional 
+encarregados de controlar algum de seus componentes na forma 
+física da tecnologia ou seja controladores de dispositivos 
+e equipamento elétrico e eletrônico. 
+podem estas divididos em vários programas formando 
+sistemas compostos e com integração entre si mesmos e o 
+sistema operacional. É comum sua divisão em pelo menos duas 
+partes uma que funcionará na memória do sistema de uso do BIOS
+e outra parte que funcionará em uso pelo núcleo do sistema operacional.

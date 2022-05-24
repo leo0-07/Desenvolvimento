@@ -1,0 +1,135 @@
+1. operando com arquivos em ambientes unix-like!.
+a) Os sistemas de arquivos nos ambientes unix;,fornecem permissões e propriedades. 
+a.1) Para permissões utilizamos o comando chmod. 
+a.2) Para propriedades utilizamos o comando chown.
+Três curiosidades sobre esse tipo de funcionamento para o sistema de arquivos, são: 
+existem o dono do arquivo. 
+grupo do arquivo.
+ e outros.
+2. O dono tem permissão de escrita, leitura e execução.
+3. já o grupo e os outros vão depender das permissões que o dono conceder.
+4. Existem ainda atributos estendidos que podem ser lidos e alterados.
+com: lsattr chattr.
+Mas estes dependem e devem ser utilizados pelo administrador do sistema.
+Eles tem influência do sistema de arquivos utilizado.
+5. Alguns comandos úteis na manipulação de arquivos: 
+file. 
+rm. 
+cp. 
+mv. 
+touch.
+ ls. 
+chmod. 
+chown.
+mkdir.  para se criar inodos  ou diretórios.
+6. Editores:
+vi.
+nano.
+emacs.
+vim.
+7. Verficador ortográfico:
+aspel.
+8. Enviando um arquivo para impressão:
+lp.
+9. Concatenando arquivos:
+cat.
+10. Enviando um dado(ou informação) para uma saída:
+echo.
+11. Oprando computadores, Utilizando a tecnologia da informação.
+1.0 Operando com sistemas de arquivo.
+Os arquivos possuem permissões e propriedades;
+que são duas coisas distintas e agem diretamente na segurança dos dados do operador.
+11.1 operando em modo texto.
+﻿Trabalhando e utilizando sistemas tipo Unix.
+Com a adoção de sistemas operacionais tipo Unix, pela maior parte das grandes empresas. 
+Tornou-se mais viável conhecer e se especializar nesse tipo de sistemas.
+O nível de abstração da maior parte dos simples usuários de tecnologia pronta.
+De um mercado de  apenas consumo de tecnologia com tudo relativamente facilitado.
+Está permitindo que muitas atividades humanas sejam prejudicadas.
+Já em sistemas tipo Unix as tarefas são mais levadas a sério.
+Como sistemas desse tipo podemos citar a maior parte dos baseados em Linux. 
+Também podemos citar os sistemas de base BSD como membros da categoria sistemas tipo Unix.
+Nos dias atuais eles são comumente usados em dispositivos de informação.
+Como em smartfones, tablets, microcomputadores e outros.
+11.2 Executando tarefas comuns de (E/S) entrada e saída de informações; no modo texto.
+Exercício 1:
+Operando em modo texto(interface de comandos.).
+1)criando um arquivo vazio:
+~/touch meuarquivo
+Para isso utilizamos o comando touch.
+2)enviando um texto para o arquivo, através do simples uso de um operador de saída.
+~/echo “informações.” > meuarquivo
+para isso utilizamos o operador(> maior que, ou direcionador de saída.).
+3)visualizando informações sobre o arquivo.
+~/file meuarquivo
+4)visualizando informações contidas no arquivo, ou fazendo
+Saída do seu conteúdo para o dispositivo de saída padrão.
+ Nesse caso a tela do terminal.
+~/cat meuarquivo
+5)enviando mais informações, de forma sequencial, para nosso arquivo.
+~/echo “sobre tecnologia, computação e informática.” >> meuarquivo
+para isso utilizamos os operadores(>>) para efetuar uma operação de 
+adicionar ao fim de nosso arquivo, nossas informações.
+Assim vemos a praticidade de um ambiente de trabalho em modo texto.
+Podemos criar textos inteiros utilizando apenas operadores.
+12. Operadores:
+>, =>, >>
+<,< =, <<
+=, ==
+!=,<>
+13 Os dados, ou seja as informações. se encontram em formatos de codificação.
+Texto:
+odt.
+txt.
+doc.
+docx.
+pdf.
+rtf.
+Imagens:
+png.
+jpg.
+jpeg.
+bimap.
+gif.
+tiff.
+wmf.
+svg.
+xcf.
+Som:
+wav.
+aiff.
+ogg.
+mp3.
+Vídeo:
+mpg.
+avi.
+webm.
+Informações em geral e multimédia, são codificadas e para isso utilizam interpretadores. 
+Também conhecidos como codecs.
+14. Formatos de dados componentes do sistema operacional.
+scripts.
+binários/bytecode.
+Estes podem ser bibliotecas e ou interpretadores.
+15. programas que compõem o sistema:
+Utilitários.
+Aplicativos.
+Drivers.
+Bibliotecas.
+16. Operando com uma interface gráfica.
+Xorg. Driver e compositor do ambiente gráfico.
+kde, gnome, lxde: gerenciadores de janelas.
+17. Aplicativos para produção gráfica.
+gimp.
+ inkscape.
+ ibreoffice draw.
+18. Aplicativos para produção multimédia.
+blender.
+ kdenlive.
+ ardour. 
+rosegarden. 
+hydrogen.
+19. Processadores de texto, planilhas, apresentções multimídia e banco de dados.
+1.2.3 bancos de dados para ambientes de rede.
+sqlite.
+mysql.
+postgresql.

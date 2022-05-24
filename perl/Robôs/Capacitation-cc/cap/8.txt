@@ -1,0 +1,14 @@
+9. Programas:
+Aplicativos, são tidos por este nome
+programas específicos de aplicação
+nas atividade humanas ou seja 
+do human-ware.
+Esse tipo de programa conta com 
+os subsistemas que compõem o sistema 
+operacional para lhe dar o suporte 
+necessário ao fucnionamento.
+podem ainda ter hardwares específicos 
+para lhes dar suporte e ou possuírem 
+múltiplas utilidades formando subsistemas  inteiros.
+São os mais populares por estarem diretamente
+relacionados com os operadores de sistemas operacionais.

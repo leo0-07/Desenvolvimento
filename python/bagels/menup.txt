@@ -1,0 +1,9 @@
+id	prato
+1	filé com fritas
+2	salada
+3	batata frita
+4	provolone frito
+5	salaminho
+6	mandioca frita
+7	iscas de peixe
+8	filé no palito

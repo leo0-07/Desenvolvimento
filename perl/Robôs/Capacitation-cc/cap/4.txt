@@ -1,0 +1,35 @@
+4. Matemática.
+Ela se aplica de duas formas práticas na computação:
+Para os cálculos e posicionamento do tipo de dados 
+a princípio em dois grandes conjuntos os número com 
+representação escalar @.
+E os números com representação linear $.
+Em um segundo instante ela irá se apresentar para 
+representar os dados em si. De acordo com a base 
+matemática necessária naquele instante.
+A base 10 = composta por um conjunto de dez elementos 
+em sua representação= (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
+a base binária = Esta é realmente utilizada pelo 
+hardware e por tudo que temos na ciência da 
+computação.
+Ela é composta por dois dígitos  por isso também pode 
+ser chamada digital.(0, 1).
+Com um conjunto de 4(quatro dígitos binários formamos um nibble.
+Com dois nibbles na formação do conjunto teremos o Byte em si.
+Bit = 0
+Bit = 1
+Nibble = 0000
+Nibble = 1111
+Byte = 0000x11111.
+Os operadores.
+>
+>=
+<
+=<
+=
+==
+=!
+*
+^
++
+-

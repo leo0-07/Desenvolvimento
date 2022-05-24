@@ -1,0 +1,23 @@
+O que é Hardware:
+
+Hardware é a parte física de um computador, é formado pelos componentes eletrônicos, como 
+por exemplo, circuitos de fios e luz, placas, utensílios, correntes, e qualquer outro material 
+em estado físico, que seja necessário para fazer com o que computador funcione.
+
+O hardware é basicamente utilizado por computadores e elementos eletrônicos. Qualquer equipamento 
+físico como chaves, fechaduras, correntes e peças do próprio computador, são chamados de hardware.
+
+O hardware não se limita apenas a computadores pessoais, também está disponível em 
+automóveis, celulares, tablets e etc.
+
+Existem vários tipos de hardware, que têm diferentes objetivos e funcionalidades. 
+O hardware de rede, por exemplo, é um equipamento que é construído com o propósito de 
+possibilitar e gerir equipamentos que estão conectados em rede.
+
+A impressora, o scanner, o monitor, mouse e o teclado de um computador é considerado 
+hardware deste PC. Em suma, os hardwares são todos os periféricos conectados em 
+um sistema operacional. 
+
+Não apenas os componentes externos, como também os que estão dentro do gabinete do 
+computador são classificados como hardwares. Exemplo: placa de memória RAM, 
+disco rígido, leitor de CD e DVD e etc. 

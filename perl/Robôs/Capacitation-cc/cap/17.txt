@@ -1,0 +1,9 @@
+17. FIFO/LIFO.
+INPUT/ OUTPUT.
+Ordem de dados de entrada e saída na pilha(stack).
+a)FIFO(FIRST IN/FIRST OUT)Como o nome sugere o primeiro bit a entrar 
+será o primeiro a sair.
+b)LIFO(Last IN/First OUT) como o nome sugere o último bit a entrar 
+será o primeiro a sair.
+Essas são as possíveis ordens de entrada e saída de dados na pilha, mas 
+podem ser mixadas(misturadas) de forma livre.

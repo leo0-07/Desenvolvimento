@@ -1,0 +1,8 @@
+16-  Sistema de arquivos.
+Existem vários sistemas de arquivo mas os dados finais do 
+sistema operacional que são usados nas atividades humanas acabam 
+sendo compatíveis entre si.
+40
+De forma geral teremos dois grandes grupos de sistemas de arquivo:
+a) os sequenciais.
+b) os não sequenciais ou aleatórios.

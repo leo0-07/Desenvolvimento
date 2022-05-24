@@ -1,0 +1,14 @@
+10 - API's
+API. Application programming Interface. 
+Mais comunmente conhecidos assim.
+São subsistemas do sistema 
+operacional e componentes de software que 
+dão suporte aos aplicativos em sí compondo
+ambientes para agilizar o desenvolvimento e 
+o funcionamento dos programas dentro 
+de um sistema operacional.
+São as ferramentas de construção de 
+programas que os desenvolvedores podem
+utilizar para suas tarefas de desenvolvimento
+em diversas áreas. costumam ter várias aplicações
+e relativa complexidade.

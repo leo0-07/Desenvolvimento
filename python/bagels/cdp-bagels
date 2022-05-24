@@ -1,0 +1,54 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+from tkinter import *
+import os
+import sys
+import pymysql
+from datetime import datetime
+from dStorage.core import dStorage
+import time
+lpri = []
+lip = []
+mlp = []
+clocal = dStorage([], [])
+clocal.setdb("precinhos", "pratos")
+clocal.l_pdindex()
+print ("Tabela de preços:")
+for pprod in clocal.litems():
+    clocal.loaddata(pprod[0])
+    lpri.append(clocal.pdata)
+    cmv = []
+
+con = pymysql.connect(
+                host='asl-sl.com.br',
+            user='waiter', 
+            password = "11224477",
+            db='asldb',
+            )
+        
+with    con.cursor() as cur:
+    cur.execute('select * from pedidos')
+    lptos = cur.fetchall()
+    print("pedidos:")
+    for  rst in lptos:
+        pvm = []
+        pvm.append("**********")
+        pvm.append(rst[1])
+        for i in range(len(pvm)):
+            for p in lpri:
+                check = pvm[i].find(p[1])
+                if check!= -1:
+                    pvm.append(p[1]+" : " + p[2])
+
+            lip.append(pvm)
+        pvm.append("########")
+        pvm.append("    ")
+
+        cmv.append(pvm)
+        
+for p in cmv:
+    for i in p:
+        print(i)
+
+    
+#       print(rst[1])
