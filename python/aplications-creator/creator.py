@@ -8,6 +8,8 @@ class creator():
             self.info = "pyCreator, aplicativo para construção de softwares."
             self.desc = "Este aplicativo utiliza a metaclasse dStorage para construção de interfaces, CLI, GUI e ambiente de dados."
             self.itype = 0
+            self.db = ""
+            self.tb = ""
           
     def start(self):
         print("tipo de interface: ", self.itype)
