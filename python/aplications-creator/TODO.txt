@@ -4,6 +4,9 @@ funções onsulta cadastra (v)
 documentação
 documentação
 
-funcão main(menu) cad/display [registrar/show]
-cópia de estrutura main --> new app.
+funcão main(menu) cad/display [registrar/show] (v)
+cópia de estrutura main --> new app. (v) --> app-skel
+
+main menu (interface CLI - GUI).
+
 
