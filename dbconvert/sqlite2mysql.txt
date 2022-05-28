@@ -1,0 +1,7 @@
+# sqlite2mysql.
+
+sqlite2mysql.py
+
+Este é um exemplo de usagem do script de conversão....
+
+sqlite3 sample.db .dump | python sqlite2mysql.py > dump.sql
