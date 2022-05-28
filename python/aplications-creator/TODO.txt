@@ -1,16 +1,29 @@
 tty id CLI GUI (v)
-funções onsulta cadastra (v)
+funções: 
+onsulta(v)
+cadastra(v)
+remove(v)
 
-documentação
-documentação
+documentação - in progress
+documentação - deps
+	(
+	  dStorage >= 1a7
+	  configparser
+	)
 
-funcão main(menu) cad/display [registrar/show] (v)
+funcão main(menu principal)
+
+interfaces:
+	CLI (v)
+	GUI (v)
+ 
+cad/display [registrar/show] (v)
+
 cópia de estrutura main --> new app. (v) --> app-skel
-
-main menu (interface CLI - GUI).
 
 adicionar read/write config file.
 
-write --> creator.
-read --> app-skel
+	read config(v)
 
+write --> creator.
+build app #  --> app-skel
