@@ -9,4 +9,8 @@ cópia de estrutura main --> new app. (v) --> app-skel
 
 main menu (interface CLI - GUI).
 
+adicionar read/write config file.
+
+write --> creator.
+read --> app-skel
 
