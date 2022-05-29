@@ -47,27 +47,40 @@ Academia do software livre São Lourenço - **MG**.
 
 Leonardo de Araújo Lima.
 
+---
 
 # Desenvolvimento
-c++
-calculadora
-perl
-python
-README.md
-ncheck
-old-black
-Robôs
-aplications-creator
-bagels
-controle
-old-black_settings
-alphabetize
-adição.txt
-base-binária-para-decimal.txt
-base-decimal-para-binária.txt
-divisão.txt
-fundamentais.txt
-multiplicação.txt
-potenciação.txt
-quant-carga-natural.txt
-subtração.txt
+
+## c++
+
+* alphabetize
+
+## calculadora (bc)
+
+---
+
+## perl
+
+* ncheck
+
+* old-black
+
+* white-new
+
+* Robôs
+
+---
+
+## python
+
+* dStoorage
+
+* aplications-creator
+
+* instVirt
+
+* bagels
+
+* controle
+
+* old-black_settings
