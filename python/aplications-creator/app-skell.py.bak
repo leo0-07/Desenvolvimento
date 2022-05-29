@@ -3,7 +3,6 @@
 from dStorage.core import dStorage
 from tkinter import Tk, Button, Label, Listbox
 import os
-import configparser
 
 class creator():
     def __init__(self):
@@ -121,12 +120,8 @@ class creator():
 
 
 def main():
-    config = configparser.ConfigParser()
-    config.read('app-config')
-    db = config.get('Aplicativo', 'DB')
-    tb = config.get('Aplicativo', 'TB')
-    print("base de dados: ", db)
-    print("tabela:", tb)
+    tb = "equipe"
+    db = "info"
     term = os.ttyname(0)
     print("terminal: ",term[5:8])
     if term[5:8] == "pts":
@@ -138,6 +133,7 @@ def main():
     print("tipo de interface:", itype)
     c = creator()
     c.info = "Meu aplicativo."
+    print("base de dados: ", db)
     c.tb = tb
     c.db = db
     c.itype = itype
@@ -145,5 +141,5 @@ def main():
         c.appgui()
     else:
         c.start()
-        
+    
 main()
