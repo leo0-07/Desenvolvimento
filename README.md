@@ -9,17 +9,26 @@ git.asl-sl.net
 
 ## atualmente encontram-se disponíveis:
 
+**bc**.
+
 calculadora.
 
 Esemplos de operações simples com
 a calculadora nativa na mior parte dos ambiente GNU.
 
-**bc**.
-
-
 **PERL**.
 
 Alguns de nosso projetos em PERL onde temos aplicações para o ambiente CLI eocm vários recursos.
+
+- ncheck.
+
+>Aplicação para cálculos em somatórios de digitos em uma faixa de valores.
+
+- Robôs.
+
+>Aplicações para IRC, robôs de automação para chat's.
+
+__Symlinks para outros projeotos "repositórios".__
 
 white-new.
 
@@ -29,13 +38,6 @@ white-new.
 
 >Os textos e a interface, bem como o suporte a sintetizador de voz, também se encontra nos idiomas inglês e espanhol.
 
-ncheck.
-
->Aplicação para cálculos em somatórios de digitos em uma faixa de valores.
-
-Robôs.
-
->Aplicações para IRC, robôs de automação para chat's.
 
 old-black.
 
@@ -73,14 +75,17 @@ Leonardo de Araújo Lima.
 
 ## python
 
-* dStoorage
-
-* aplications-creator
-
-* instVirt
-
 * bagels
 
 * controle
 
 * old-black_settings
+
+__Symlinks para outros projeotos "repositórios".__
+
+* dStoorage
+
+* instVirt
+
+* aplications-creator
+
