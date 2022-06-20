@@ -1,0 +1,31 @@
+# Filename: test3.kv
+<MyGrid>:
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+
+        GridLayout:
+            cols:2
+
+        Label:
+            text: "Prato: "
+
+        RecycleView:
+            id: rv
+            viewclass: 'Label'
+            RecycleBoxLayout:
+                default_size: None, dp(56)
+                default_size_hint: 1, None
+                size_hint_y: None
+                height: self.minimum_height
+                orientation: 'vertical'
+
+        Label:
+            text: "Bebida: "
+
+        TextInput:
+            multinline:False
+
+        Button:
+            text:"Enviar"
+            on_press: app.btn()

@@ -1,0 +1,4 @@
+title=Waiter
+author=Leonardo de Araújo Lima
+orientation=portrait
+

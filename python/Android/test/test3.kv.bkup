@@ -1,0 +1,24 @@
+# Filename: test3.kv
+<MyGrid>:
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+
+        GridLayout:
+            cols:2
+
+        Label:
+            text: "Nome: "
+
+        TextInput:
+            multinlne:False
+
+        Label:
+            text: "Sobrenome: "
+
+        TextInput:
+            multinline:False
+
+        Button:
+            text:"Enviar"
+            on_press: app.btn()

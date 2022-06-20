@@ -1,0 +1,135 @@
+from datetime import datetime
+import pymysql
+import kivy
+from kivy.app import App
+from kivy.lang import Builder
+from kivy.uix.screenmanager import ScreenManager, Screen
+from kivy.uix.button import Button
+plist = []
+con = pymysql.connect('db.asl-sl.com.br', 'leo0-07', 'linux77', 'asldb')
+with con.cursor() as cur:
+    cur.execute('select prato from pratos')
+    lptos = cur.fetchall()
+    for  rst in lptos:
+        plist.append(rst[0])
+        print(rst[0])
+
+    con.close()
+            
+KW = '''
+<ScreenManagement>:
+    MainScreen:
+        name: "screen_main"
+        id:scrmain
+
+    MenuScreen:
+        name: "screen_menu"
+        id:scrmenu
+
+    CardScreen:
+        name: "screen_card"
+        id:scrcard
+
+<MainScreen>:
+    BoxLayout:
+        id: layout
+        size_hint: 1, None
+        size: "280dp", "180dp"
+
+        Button:
+            text:"menu"
+            font_size: 20
+            on_press:root.manager.current = "screen_menu"
+
+<MenuScreen>:
+    BoxLayout:
+        id: layout
+        size_hint: 1, None
+        size: "280dp", "120dp"
+
+        Button:
+            text:"Prato"
+            font_size: 20
+            on_press:root.s_card()
+
+        Button:
+            text:"Bebida"
+            font_size: 20
+
+        Button:
+            text:"Mesa"
+            font_size: 20
+
+<CardScreen>:
+    BoxLayout:
+        id: layout
+        size_hint: 1, None
+        size: "720dp", "340dp"
+        orientation:'vertical'
+        '''
+card = ''
+cString = '''
+                     
+        Button:
+            font_size: 20
+            size_hint: 1, .6
+            on_press:app.hpedido(self)
+            text:'''
+for i in plist:
+    card += cString+'"' + i+ '"'
+KW += card 
+endString = '''
+
+        Button:
+            font_size: 20
+            size_hint: 1, .6
+            text:"Início"
+            on_press:root.manager.current = "screen_menu"'''
+KW += endString
+Builder.load_string( KW)
+class MainScreen(Screen): 
+        def init(self,kwargs):
+            super(MainScreen,self).init(kwargs)
+            pass
+
+class MenuScreen(Screen):
+
+        def s_card(self):
+            print('mostrar cardápio')
+            self.manager.current = 'screen_card'
+            pass
+        
+        def init(self,kwargs):
+                super(MenuScreen,self).init(kwargs)
+                pass
+
+
+class CardScreen(Screen):                
+
+        def init(self,kwargs):
+            super(MenuScreen,self).init(kwargs)
+            print('card_init')
+            pass
+
+        def s_menu(self):
+            print('mostrar menu')
+            self.manager.current = 'screen_menu'
+            pass
+
+class ScreenManagement(ScreenManager):
+    pass
+
+class tpWaiter(App):
+        icon = 'mys3lf-light256.png'
+        title = 'kWaiter'
+
+
+
+        def hpedido(self, instance):
+            print(instance.text)
+
+        def build(self):
+            return ScreenManagement()
+
+if __name__ == '__main__':
+    tpWaiter().run()
