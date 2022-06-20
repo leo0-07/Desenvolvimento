@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for a in $(ls -1 *.md |sed -e 's/\.md$//'); do markdown $a.md >> $a.html; echo $a.md " --> " $a.html; done
+
+echo "atualizaçã concluída..."
