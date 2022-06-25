@@ -38,7 +38,6 @@ white-new.
 
 >Os textos e a interface, bem como o suporte a sintetizador de voz, também se encontra nos idiomas inglês e espanhol.
 
-
 old-black.
 
 >Programa para interface CLI de anotações, e apontamentos, ele também tem recursos de suporte a voz sintetizada.
@@ -65,10 +64,6 @@ Leonardo de Araújo Lima.
 
 * ncheck
 
-* old-black
-
-* white-new
-
 * Robôs
 
 ---
@@ -81,11 +76,22 @@ Leonardo de Araújo Lima.
 
 * old-black_settings
 
+* aplications-creator
+
 __Symlinks para outros projeotos "repositórios".__
 
 * dStoorage
 
+> biblioteca publicada em pypi.org.
+
+> leo0-07 dStorage.
+
+> https://github.com/leo0-07/dStorage
+
+---
+
 * instVirt
 
-* aplications-creator
+> https://codeberg.org/Linux77/instVirt
+
 
